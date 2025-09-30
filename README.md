@@ -2,12 +2,12 @@
 Tools and methods for analyzing, recognizing, and transcribing human speech.
 
 ## 📊 Traitement Automatique de la Parole (TP-1)
-Dans ce premier TP on procède à  :  
-  - Une analyse de signaux audio (WAV, 16 kHz)
-  - Une identification et segmentation de phonèmes
-  - Une visualisation spectrale (spectrogrammes)
+Ce premier TP a pour but de découvrir : 
+  - L'analyse de signaux audio (WAV, 16 kHz)
+  - L'identification et la segmentation de phonèmes
+  - La visualisation spectrale (spectrogrammes)
 
-### Technologies
+### Technologies utilisées
 Python • NumPy • SciPy • Matplotlib • Librosa
 
 ### Résultats
